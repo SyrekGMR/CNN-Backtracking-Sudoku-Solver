@@ -1,7 +1,7 @@
 # CNN-Backtracking-Sudoku-Solver
-<p align="center">
+<h1 align="center">
 ![sudoku](Images/sudoku.png?raw=true "Title")
-</p>
+</h1>
 
 CNN-based digit detector followed by a backtracking algorithm.
 
